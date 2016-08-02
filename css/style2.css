@@ -1,0 +1,19 @@
+li {
+  font-family: fantasy;
+  color: black;
+}
+
+li:hover {
+  font-weight: bold;
+  color: red;
+
+}
+h1 {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+body {
+  background-color: lightgrey;
+}
