@@ -1,0 +1,24 @@
+h1 {
+  font-size: 48px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: cursive;
+  text-color: blue;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+li{
+  font-size: 24px;
+
+}
+
+a:hover {
+    background-color: yellow;
+}
